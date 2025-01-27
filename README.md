@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/codepath-website-walkthrough-E8qhv51' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/aordillano/web102_prework/blob/main/CodePath_Website_Walkthrough.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 <!-- GIF created with ...  -->
