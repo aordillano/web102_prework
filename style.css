@@ -19,8 +19,40 @@ body {
     margin-top: -10px;
 }
 
+nav ul {
+    display: flex;
+    background-color: lightblue;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: white;
+    border-radius: 15%;
+    padding: 5%;
+    color: inherit;
+    display: inline-block;
+    white-space: nowrap;
+}
+
+.button:hover {
+    box-shadow: 0 0 30px white;
+}
+
 .stats-container {
     display: flex;
+    align-items: stretch;
+    cursor: pointer;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
